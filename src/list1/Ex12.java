@@ -1,4 +1,4 @@
-package lista1;
+package list1;
 
 import javax.swing.JOptionPane;
 

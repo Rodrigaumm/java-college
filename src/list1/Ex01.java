@@ -1,4 +1,4 @@
-package lista1;
+package list1;
 
 public class Ex01 {
     public static void a() {
